@@ -1,0 +1,6 @@
+{
+  "name": "Report Badshah",
+  "description": "Premium Sports Match analysis and unlock reports platform with automated billing proposals, dynamic admin approval, and real-time support chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

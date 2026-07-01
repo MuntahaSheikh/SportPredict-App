@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224708361848",
+    "project_id": "sportpredict-pro-1c275",
+    "storage_bucket": "sportpredict-pro-1c275.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224708361848:android:552dbe805f79a721a3f78d",
+        "android_client_info": {
+          "package_name": "com.aistudio.apexpredictions.qkwzpx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQ-xj6E8dFiq3RRRSo3DjBDxDGREEWkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
